@@ -97,4 +97,3 @@ async def nextmap(ctx):
 
 
 
-bot.run("")
